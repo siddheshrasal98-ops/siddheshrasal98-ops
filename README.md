@@ -1,32 +1,87 @@
 # Hi there 👋, I'm Siddhesh Rasal
 
-## 💻 About Me
+## 🚀 About Me
 
-- 🎓 PGDM in DevOps (Edureka)
-- 💼 3+ Years of Experience in IT Operations
-- 🌱 Currently learning Advanced DevOps and Cloud Technologies
-- 🎯 Aspiring DevOps Engineer
+- 💼 IT Operations Executive at IDBI Intech (3+ Years)
+- 🎓 PGDM in DevOps – Edureka
+- ☁️ AWS & DevSecOps Enthusiast
+- 🚀 Passionate about Automation, CI/CD and Cloud Infrastructure
+- 📍 Navi Mumbai, India
+
+---
 
 ## 🛠️ Skills
 
-- Linux
+### Cloud
+- AWS (EC2, IAM, VPC, Security Groups, Secrets Manager)
+
+### DevOps
+- Jenkins
 - Git & GitHub
-- GitHub Actions
+- Maven
 - Docker
-- Kubernetes
-- Ansible
-- AWS
-- Shell Scripting
+- Terraform
+- Checkov
+- Open Policy Agent (OPA)
+
+### DevSecOps
+- SonarQube
+- OWASP Dependency Check
+- Trivy
+- OWASP ZAP
+
+### Monitoring
+- Prometheus
+- Grafana
+- Spring Boot Actuator
+
+### Operating Systems
+- Linux
+- Windows Server
+
+### Programming
+- Java
 - SQL
+- Shell Scripting
 
-## 🚀 Current Focus
+---
 
-- Building CI/CD Pipelines
-- Infrastructure as Code
-- Docker & Kubernetes
-- Cloud Automation
-- DevOps Best Practices
+## 🚀 Featured Project
+
+### AWS DevSecOps CI/CD Pipeline
+
+End-to-End DevSecOps pipeline implementing:
+
+- Jenkins CI/CD
+- Terraform Infrastructure as Code
+- SonarQube
+- OWASP Dependency Check
+- Checkov
+- OPA
+- Docker
+- Trivy
+- AWS Secrets Manager
+- OWASP ZAP
+- Prometheus
+- Grafana
+
+🔗 Repository
+
+https://github.com/siddheshrasal98-ops/aws-devsecops-capstone
+
+---
 
 ## 📫 Connect with Me
 
-📧 Email: siddheshrasal98@gmail.com
+GitHub:
+https://github.com/siddheshrasal98-ops
+
+LinkedIn:
+(Add your LinkedIn URL here)
+
+Email:
+(Add your email)
+
+---
+
+⭐ Always learning new DevOps, Cloud and DevSecOps technologies.
